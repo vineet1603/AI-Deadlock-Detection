@@ -9,7 +9,7 @@ An AI-powered system for detecting and resolving deadlocks in computing environm
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/AI-Deadlock-Detection.git
+git clone https://github.com/vineet1603/AI-Deadlock-Detection.git
 cd AI-Deadlock-Detection
 pip install -r requirements.txt
 
